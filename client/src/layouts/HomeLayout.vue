@@ -1,5 +1,6 @@
 <template>
   <div>
-    <h2>Login</h2>
+    <h2>Home Layout</h2>
+    <slot />
   </div>
 </template>
